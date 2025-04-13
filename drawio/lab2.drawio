@@ -419,7 +419,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yPmrLk9QHXn5OHYmQoqa-142" value="下一个指令是定义一个变量。&lt;div&gt;结合之前的分析，推理出下一条指令：&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;1.定义一个名为a的变量&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;2.并且将a初始值设为0.2.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="yPmrLk9QHXn5OHYmQoqa-142" value="下一个指令是&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;定义一个变量&lt;/font&gt;。&lt;div&gt;结合之前的分析，推理出下一条指令：&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;1.定义一个名为a的变量&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;2.并且将a初始值设为0.2.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="2640" y="360" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yPmrLk9QHXn5OHYmQoqa-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yPmrLk9QHXn5OHYmQoqa-166" target="yPmrLk9QHXn5OHYmQoqa-170">
