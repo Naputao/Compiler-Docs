@@ -28,38 +28,20 @@
         <mxCell id="KL5B1mDD16OhMH7iHdpv-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="120" y="80" width="120" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="KL5B1mDD16OhMH7iHdpv-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="80" as="sourcePoint" />
-            <mxPoint x="120" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KL5B1mDD16OhMH7iHdpv-8" value="局部变量空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="58" width="100" height="30" as="geometry" />
+          <mxGeometry x="20" y="170" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KL5B1mDD16OhMH7iHdpv-10" value="数组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=90;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="120" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KL5B1mDD16OhMH7iHdpv-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;数组起始位置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="120" height="10" as="geometry" />
+          <mxGeometry x="120" y="280" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="KL5B1mDD16OhMH7iHdpv-11" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#999999;direction=north;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="20" height="80" as="geometry" />
+        <mxCell id="KL5B1mDD16OhMH7iHdpv-20" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;数组指针 存放(offset0)的值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="KL5B1mDD16OhMH7iHdpv-12" value="offset0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="65" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KL5B1mDD16OhMH7iHdpv-13" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;数组指针 存放(offset0)的值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="230" width="120" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="KL5B1mDD16OhMH7iHdpv-14" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#999999;direction=north;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="10" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="KL5B1mDD16OhMH7iHdpv-15" value="offset1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="120" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KL5B1mDD16OhMH7iHdpv-17" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;array_size 存放数组的大小&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="260" width="120" height="10" as="geometry" />
+        <mxCell id="KL5B1mDD16OhMH7iHdpv-23" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#999999;direction=north;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="10" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
