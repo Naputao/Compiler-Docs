@@ -1,0 +1,11 @@
+1. 所用代码都应该使用 namespace, 不使用 using namespace std
+2. 在头文件中声明, 不允许定义, 变量一定要加 extern
+        头文件必须使用 ifndef XXX_H & define XXX_H & endif
+3. 显式的实现类的 constructor & destructor, 即使内容为空, 如果不需要 copy constructor & assignment operator, 显式的删掉
+        必须在 constructor 中对所有成员函数进行初始化, 赋默认值 (否则你会收到一个不确定值的局部变量
+4. 使用 enum class 显式的限定类型
+5. 指针的类型转换不允许进行强制转换, 一定要用 dynamic_cast 然后检查是否 nullptr
+        特别是在 upcasting 时一定要这么做
+6. 多使用 assert(0 && "your error reason"), 在不符合预期的地方 assert 掉, 尽早发现错误
+
+如果有更多建议欢迎提出（这一篇也是助教开发时的血泪史
